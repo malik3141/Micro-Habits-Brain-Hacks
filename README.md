@@ -2,7 +2,9 @@
 
 This Streamlit app includes two powerful tools to help explore YouTube data:
 
----
+---import streamlit as st
+import requests
+
 
 ## 📊 Tool 1: YouTube Channel Stats Checker
 
